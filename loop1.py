@@ -1,7 +1,5 @@
-# program 1: Print first 10 natural numbers
-i = 1
-while i <= 10:
+# Python Program to illustrate
+# Iterating over a list
+l = ["geeks", "for", "geeks"]
+for i in l:
     print(i)
-    i += 1
-
-
